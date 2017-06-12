@@ -1,0 +1,7 @@
+php5-phalcon/
+php5-phalcon-dbgsym/
+usr/
+files
+*.debhelper.log
+*.substvars
+*.install
